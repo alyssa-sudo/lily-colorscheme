@@ -1,0 +1,37 @@
+!! Colors
+
+!! Lily  palette
+*.foreground: #d5d1eb
+*.background: #2b2839
+
+!! black
+*.color0:     #2b2839
+*.color8:     #9d97bf
+
+!! red
+*.color1:     #d7757d
+*.color9:     #efc8cb
+
+!! green
+*.color2:     #97baa3
+*.color10:    #d5e3da
+
+!! orange
+*.color3:     #C0A496
+*.color11:    #E6DCD6
+
+!! blue
+*.color4:     #92ade3
+*.color12:    #d3def4
+
+!! purple
+*.color5:     #ab85d1
+*.color13:    #ddceec
+
+!! pink
+*.color6:     #C28EBE
+*.color14:    #E6D1E4
+
+!! white
+*.color7:     #d5d1eb
+*.color15:    #eeedf7
